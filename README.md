@@ -9,9 +9,10 @@ If you’re a newcomer to the field, you can get started with DataCamp’s Intro
 
 Available certifications:
 
-#1. Azure Fundamentals Certification
+1. Azure Fundamentals Certification
+
       Who It's For: Beginners looking to kickstart their journey in cloud computing, specifically with Microsoft Azure. Suitable for IT professionals, students, and those curious about cloud technology.
-      Skills Covered: Core cloud concepts and services, Azure's architectural components: computing, networking, storage, and security; hands-on experience with Azure tools such as containers, virtual machines, and pricing calculators; role-based access control in Azure; preparation for the Microsoft AZ-900 certification exam. 
+      Skills Covered: Core cloud concepts and services, Azure's architectural components: computing, networking, storage, and security; hands-on experience with Azure tools such as containers, virtual machines,         and pricing calculators; role-based access control in Azure; preparation for the Microsoft AZ-900 certification exam. 
       Prerequisites: No prior knowledge or coding experience is required. This course is designed for absolute beginners who are new to cloud computing and Microsoft Azure.
       Cost: Free as part of a DataCamp Premium subscription, which starts from $25 per month. Additionally, you’ll receive a 50% discount on the Microsoft AZ-900 exam fee.
 
