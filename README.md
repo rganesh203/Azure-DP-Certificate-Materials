@@ -1,1 +1,1 @@
-# Azure-DP-Certificate-Materials
+# Azure-DP-and-PL-Certificate-Materials
